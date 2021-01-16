@@ -1,0 +1,16 @@
+. menu {
+    margen : 20 px ;
+  }
+  
+  . menu  p {
+    color de fondo : azul celeste;
+    ancho : 130 px ;
+  }
+  
+  . menú  a : desplazarse {
+    color : rojo
+  }
+  
+  . menú  a : visitado {
+    color : verde;
+  }
