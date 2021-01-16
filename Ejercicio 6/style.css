@@ -1,0 +1,53 @@
+cuerpo {
+    color : gris;
+    familia de fuentes : 'Gill Sans' ,  'Gill Sans MT' , Calibri ,  'Trebuchet MS' , sans-serif;
+  }
+  
+  . contenedor {
+    pantalla : flex;
+    justificar-contenido : espacio-uniformemente;
+  }
+  
+  . info-container {
+    pantalla : flex;
+  }
+  . contact-container {
+    margen izquierdo : 10 px ;
+  }
+  . título {
+    tamaño de fuente : 18 px ;
+    margen : 4 px ;
+  }
+  . subtítulo {
+    margen : 4 px ;
+  }
+  
+  . botón {
+    altura : 40 px ;
+    radio del borde : 10 px ;
+  }
+  . libro {
+    color de fondo : blanco;
+    borde : 2 px gris sólido;
+  }
+  
+  . presupuesto {
+    color de fondo : gris;
+    color : blanco;
+    borde : ninguno;
+  }
+  . contenedor de comentarios {
+    pantalla : flex;
+    alinear-elementos : centro;
+  }
+  
+  . marca {
+    fondo : gris;
+    color : negro;
+    margen izquierdo : 10 px ;
+    relleno : 10 px ;
+    radio del borde : 10 px ;
+  }
+  . mark  p {
+    margen : 0 ;
+  }
