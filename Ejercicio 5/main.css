@@ -1,0 +1,26 @@
+# formContainer {
+    borde : 1 px negro sólido;
+    relleno : 20 px ;
+  }
+  . label-form {
+    font-weight : negrita;
+    ancho : 100 px ;
+    padding-right : 30 px ;
+    flotar : izquierda;
+  }
+  . container-button {
+    alineación de texto : centro;
+  }
+  . enviar-botón {
+    color de fondo : azul;
+    color : blanco;
+    borde : ninguno;
+    radio del borde : 15 px ;
+    relleno : 10 px ;
+    tamaño de fuente : 14 px ;
+  }
+  . enviar-botón : hover {
+    cursor : puntero;
+    color de fondo : verde claro;
+  }
+  
