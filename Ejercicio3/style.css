@@ -1,0 +1,19 @@
+cuerpo {
+    margen : 0 ;
+  }
+  
+  . menu {
+    margen : 0 ;
+    color de fondo : negro;
+    color : blanco;
+    estilo de lista : ninguno;
+    pantalla : flex;
+    dirección flexible : fila;
+    justificar-contenido : espacio alrededor;
+    alinear-elementos : centro;
+    altura : 50 px ;
+  }
+  . menu  li : hover {
+    color : rosa;
+  }
+  
