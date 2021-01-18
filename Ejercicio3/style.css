@@ -1,19 +1,18 @@
-cuerpo {
-    margen : 0 ;
+body {
+    margin : 0 ;
   }
   
-  . menu {
-    margen : 0 ;
-    color de fondo : negro;
-    color : blanco;
-    estilo de lista : ninguno;
-    pantalla : flex;
-    dirección flexible : fila;
-    justificar-contenido : espacio alrededor;
-    alinear-elementos : centro;
-    altura : 50 px ;
+  .menu {
+    margin : 0 ;
+    background-color : black;
+    color : white;
+    list-style :none;
+    display : flex;
+    flex-direction : row;
+    justify-content : space-around
+    align-items:center
+    weight : 50px;
   }
-  . menu  li : hover {
-    color : rosa;
-  }
-  
+  .menu li : :hover {
+    color: pink 
+  }  
