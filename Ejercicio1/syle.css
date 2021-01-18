@@ -1,9 +1,9 @@
-cuerpo {
-    familia de fuentes : 'Segoe UI' , Tahoma , Ginebra , Verdana , sans-serif;
+body {
+  font-family :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   
-  . primero {
-    estilo de fuente : cursiva;
-    borde : 2 px punteado en rojo;
+  .first{
+    font-style: italic;
+    border :2 px dotted red;
   }
   
