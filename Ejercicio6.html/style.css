@@ -1,52 +1,51 @@
 body {
-    color : gris;
-    familia de fuentes : 'Gill Sans' ,  'Gill Sans MT' , Calibri ,  'Trebuchet MS' , sans-serif;
-  }
+    color : grey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
   
-  .contenedor {
-    pantalla : flex;
-    justificar-contenido : espacio-uniformemente;
+  .container {
+    display : flex;
+    justify-content: space-evenly
   }
   
   .info-container {
-    pantalla : flex;
+    display : flex;
   }
   .contact-container {
-    margen izquierdo : 10 px ;
+    margin-left : 10px;
   }
-  .título {
-    tamaño de fuente : 18 px ;
-    margen : 4 px ;
+  .title {
+    font-size : 18px;
+    margin : 4px;
   }
   .subtítulo {
-    margen : 4 px ;
+    margin : 4px ;
   }
   
-  .botón {
-    altura : 40 px ;
-    radio del borde : 10 px ;
+  .button {
+    height : 40px ;
+    border-radius : 10px;
   }
-  .libro {
-    color de fondo : blanco;
-    borde : 2 px gris sólido;
-  }
-  
-  .presupuesto {
-    color de fondo : gris;
-    color : blanco;
-    borde : ninguno;
-  }
-  .contenedor de comentarios {
-    pantalla : flex;
-    alinear-elementos : centro;
+  .book {
+    background-color : white;
+    border : 2px grey;
   }
   
-  .marca {
-    fondo : gris;
-    color : negro;
-    margen izquierdo : 10 px ;
-    relleno : 10 px ;
-    radio del borde : 10 px ;
+  .budget {
+    background-color: grey;
+    color : white;
+    border : none;
+  }
+  .comments-container {
+    display : flex;
+    align-items; : center
+  }
+  .mark {
+    background : grey;
+    color : black;
+    margin-left : 10 px ;
+    padding : 10 px ;
+    border-radius : 10 px ;
   }
   .mark  p {
     margin : 0 ;
