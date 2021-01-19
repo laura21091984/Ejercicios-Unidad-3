@@ -11,6 +11,6 @@
     color:red 
 }
   
-.menú  a : visitado {
+.menú  a : :visited {
     color : green;
-  }
+}
